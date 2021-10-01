@@ -10,7 +10,7 @@ Model.py : is the basic model\
 control.py : let's you control your curse through your camera\
 client_with_pred.py : is the gui that shows the model predciion from an image stream
 
-#TO DO
+# TO DO
 upload the dataset.\
 upload the .h5 files.\
 Make CGI hands.\
